@@ -1,0 +1,26 @@
+[33mcommit e5923982d4670c182324a6bf2d3597f177cc0e50[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdongwouk[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: SeokSeungMin <seoksmin@gmail.com>
+Date:   Tue Sep 24 18:08:36 2024 +0900
+
+    pr template delete
+
+[1mdiff --git a/.github/pull_request_template.md b/.github/pull_request_template.md[m
+[1mdeleted file mode 100644[m
+[1mindex 1f213c2..0000000[m
+[1m--- a/.github/pull_request_template.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,13 +0,0 @@[m
+[31m-## 개요[m
+[31m-내용을 적어주세요.[m
+[31m-[m
+[31m-## 작업사항[m
+[31m-- 내용을 적어주세요.[m
+[31m-[m
+[31m-## 변경로직[m
+[31m-- 내용을 적어주세요.[m
+[31m-[m
+[31m-### 테스트[m
+[31m-<!-- 본 변경사항이 테스트가 되었는지 기술해주세요 --> [m
+[31m-- [ ] 테스트 코드[m
+[31m-- [ ] API 테스트 [m
+\ No newline at end of file[m
